@@ -99,5 +99,5 @@ Extensibility is the means by which addition functionality can be added to furth
 
 - ```urn:vwi``` would follow the same standard conventions for defining service endpoints that can be defined according the W3C DID specification.
 
-This would enable the introspection of a ```urn:vwi``` identifier for additional capabilitiies suchs as WHOIS (publicy verifiable information)
+This would enable the introspection of a ```urn:vwi``` identifier for additional capabilitiies such as WHOIS/RDAP (publicy verifiable information)
 
