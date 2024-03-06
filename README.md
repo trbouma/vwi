@@ -4,6 +4,11 @@
 
 ## What is it?
 
+Imagine that you had  a globally available identifier that you own and control that looked like this: ```user@organization@trustroot.ca```
+
+In some ways, you already have this with your email address.
+
+
 The verifiable web identifier scheme is based on [RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986) illustrated below:
 
 ![urn](./urn-scheme.png)
