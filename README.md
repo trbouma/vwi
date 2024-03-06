@@ -1,6 +1,12 @@
 # Verifiable Web Identifiers
 
-'_People want identifiers that are human recognizable and globally verifiable_'
+'_People want identifiers that are human recognizable AND globally verifiable_'
+
+## What is it?
+
+The verifiable web identifier scheme is based on [RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986) illustrated below:
+
+![urn](./urn-scheme.png)
 
 
 ## Introduction
