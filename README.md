@@ -1,6 +1,6 @@
 # Verifiable Web Identifiers
 
-'_People want identifiers that are easily recognizable and verfiable_'
+'_People want identifiers that are human recognizable and globally verifiable_'
 
 
 ## Introduction
